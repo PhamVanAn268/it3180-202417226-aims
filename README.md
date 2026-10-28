@@ -5,3 +5,4 @@
 
 - Sinh viên: Phạm Văn An – MSSV 202417226
 - Chạy chương trình: `py main.py`
+Yêu cầu: Python >= 3.10
