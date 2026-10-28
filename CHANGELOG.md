@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 ### Added
+- Search DVDs by category.
 - Sort cart by title or cost; stable ascending order.
 
 ## [1.0.0] - 2026-10-29
