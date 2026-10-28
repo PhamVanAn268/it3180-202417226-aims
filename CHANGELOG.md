@@ -1,6 +1,8 @@
 # Changelog
 
 ## [Unreleased]
+
+## [1.1.0] - 2026-10-29
 ### Added
 - Search DVDs by category.
 - Sort cart by title or cost; stable ascending order.
